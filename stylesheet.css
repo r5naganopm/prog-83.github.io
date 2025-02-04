@@ -5,7 +5,6 @@
   position: relative;
   animation: moveBox 2s infinite alternate;
 }
-
 @keyframes moveBox {
   0% {
     left: 0;
